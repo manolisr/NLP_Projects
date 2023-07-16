@@ -1,5 +1,23 @@
 # NLP_Projects
-* NLP_Pracitcal Project 1 concerns detecting sentiment in movie reviews. The task is to decides whether a movie review conveys positive or negative sentiment. The data for the project may be found [here](https://gist.githubusercontent.com/bastings/d47423301cca214e3930061a5a75e177/raw/5113687382919e22b1f09ce71a8fecd1687a5760/reviews.json "here") .
+
+* NLP_Pracitcal Project 1
+This practical concerns detecting sentiment in movie reviews. This is a typical NLP classification task.
+In [this file](https://gist.githubusercontent.com/bastings/d47423301cca214e3930061a5a75e177/raw/5113687382919e22b1f09ce71a8fecd1687a5760/reviews.json) (80MB) you will find 1000 positive and 1000 negative **movie reviews**.
+Each review is a **document** and consists of one or more sentences.
+
+To prepare yourself for this practical, you should
+have a look at a few of these texts to understand the difficulties of
+the task: how might one go about classifying the texts? You will write
+code that decides whether a movie review conveys positive or
+negative sentiment.
+
+Please make sure you have read the following paper:
+
+>   Bo Pang, Lillian Lee, and Shivakumar Vaithyanathan
+(2002).
+[Thumbs up? Sentiment Classification using Machine Learning
+Techniques](https://dl.acm.org/citation.cfm?id=1118704). EMNLP.
+
 
 * NLP_Pracitcal Project 2
 In this second practical, we will train neural network models to obtain sentence representations. We can then use these sentence representations for a downstream task such as sentiment classification. 
