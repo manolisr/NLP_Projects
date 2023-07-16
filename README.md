@@ -1,5 +1,5 @@
 # NLP_Projects
-##NLP_Pracitcal Project 1
+## NLP_Pracitcal Project 1
 This practical concerns detecting sentiment in movie reviews. This is a typical NLP classification task.
 In [this file](https://gist.githubusercontent.com/bastings/d47423301cca214e3930061a5a75e177/raw/5113687382919e22b1f09ce71a8fecd1687a5760/reviews.json) (80MB) you will find 1000 positive and 1000 negative **movie reviews**.
 Each review is a **document** and consists of one or more sentences.
